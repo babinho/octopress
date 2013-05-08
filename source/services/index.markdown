@@ -8,10 +8,22 @@ title: Services
 wordpress_id: 136
 ---
 
-Services i provide:
+I am available for hire to help you build a new or maintain a current web
+application.
 
-Ruby and Ruby on Rails consulting.
-Oracle database consulting.
-Android consulting.
+###Experience:
+---
+* Developer/Consultant, 8 years
+* Freelance developer, 3 years
+  * Ruby/Rails consulting
+  * JavaScript
+  * CoffeeScript
+  * PL/SQL
+
+###Methodologies:
+---
+* TDD
+* Agile
+
 
 Mail me with inquiries babinho[at]gmail.com
