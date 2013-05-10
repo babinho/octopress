@@ -1,10 +1,11 @@
 ---
 author: babinho
 comments: false
-date: 2012-06-14 22:08:41
 layout: page
+sharing: false
 slug: services
 title: Services
+footer: false
 wordpress_id: 136
 ---
 
@@ -25,5 +26,5 @@ application.
 * TDD
 * Agile
 
+####[Contact me for more details]({{ site_root }}/contact)
 
-Mail me with inquiries babinho[at]gmail.com

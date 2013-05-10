@@ -8,9 +8,9 @@ title: I just joined Toptal.com
 wordpress_id: 189
 ---
 
-## [<img src="/images/toptal.png" title="Toptal" style="float:left; margin-right: 10px;" />](http://www.toptal.com/?ref=3341)[Toptal](http://www.toptal.com/?ref=3341) is a relatively new company, similar in many ways to other freelancing sites available, but it has a twist.
+## [<img src="/images/toptal.png" title="Toptal" class="left" />](http://www.toptal.com/?ref=3341)[Toptal](http://www.toptal.com/?ref=3341) is a relatively new company, similar in many ways to other freelancing sites available, but it has a twist.
 
-[<img src="/images/toptal_resume.png" title="My Toptal Resume" style="float: left; margin-right: 10px;" />](http://www.toptal.com/profiles/3341/resume?ref=3341)
+<a href="http://www.toptal.com/profiles/3341/resume?ref=3341" class="right"><img src="/images/toptal_resume.png" title="My Toptal Resume" class="right" /></a>
 I received an email from a recruiter last month and after a few hours inspecting the site,
 and watching the CEO's talk at the Harvard Business School
 [http://youtu.be/Ffjx_hl3IE8](http://youtu.be/Ffjx_hl3IE8) i decided to contact them.
