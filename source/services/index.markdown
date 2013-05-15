@@ -16,10 +16,15 @@ application.
 ---
 * Developer/Consultant, 8 years
 * Freelance developer, 3 years
-  * Ruby/Rails consulting
-  * JavaScript
-  * CoffeeScript
-  * PL/SQL
+
+###Technologies
+---
+* Ruby/Rails
+* JavaScript
+* CoffeeScript
+* PL/SQL
+* Oracle
+* PostgreSQL
 
 ###Methodologies:
 ---

@@ -11,6 +11,9 @@ comments: false
 I'm always interested to hear from new people, and if You are looking for a
 freelance web developer feel free to contact me.
 
+Get in touch with me using the form below, or on
+[Twitter](twitter.com)([@babinho82](twitter.com/babinho82))
+
 <div id="wufoo-z7x3p3">
 Fill out my <a href="http://babinho.wufoo.com/forms/z7x3p3">online form</a>.
 </div>
