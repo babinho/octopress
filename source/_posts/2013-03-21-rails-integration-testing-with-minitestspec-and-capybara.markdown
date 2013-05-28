@@ -4,15 +4,15 @@ comments: true
 date: 2013-03-21 10:19:20
 layout: post
 slug: rails-integration-testing-with-minitestspec-and-capybara
-title: Rails Integration testing with MiniTest::Spec and Capybara
+title: Rails Integration testing with Minitest::Spec and Capybara
 wordpress_id: 202
 categories:
 - Ruby
 - Ruby on Rails
 ---
 
-So you want to do integration testing for your application, good for you. If you have chosen [MiniTest](https://github.com/blowmage/minitest-rails) and it's specing DSL [MiniTest::Spec](https://github.com/metaskills/minitest-spec-rails) as your test framework here is an example how to setup the integration tests to run fairly fast. Integration tests are similar to [Cucubmer](https://github.com/cucumber/cucumber-rails) features, if you have used that before. I just like this style better because Cucumber, IMO adds too much noise, but it serves you as application documentation. I will also user [Capybara](https://github.com/blowmage/minitest-rails-capybara) for the webpage testing.
-Because we are using minitest-spec-rails gem, we don't need to tinker with the config/application.rb and test settings, because ActiveSupport::TestCase is a subclass of MiniTest::Spec
+So you want to do integration testing for your application, good for you. If you have chosen [Minitest](https://github.com/blowmage/minitest-rails) and it's specing DSL [MiniTest::Spec](https://github.com/metaskills/minitest-spec-rails) as your test framework here is an example how to setup the integration tests to run fairly fast. Integration tests are similar to [Cucubmer](https://github.com/cucumber/cucumber-rails) features, if you have used that before. I just like this style better because Cucumber, IMO adds too much noise, but it serves you as application documentation. I will also user [Capybara](https://github.com/blowmage/minitest-rails-capybara) for the webpage testing.
+Because we are using minitest-spec-rails gem, we don't need to tinker with the config/application.rb and test settings, because ActiveSupport::TestCase is a subclass of Minitest::Spec
 
 First we will set up the gemfile, with the needed gems( I also use guard for my automated tests, but it's worth writing another blog post, soon hopefully)
 

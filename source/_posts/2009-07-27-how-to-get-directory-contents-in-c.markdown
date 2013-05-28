@@ -12,7 +12,7 @@ categories:
 
 I am creating a backup application and have to get the list of files in some directory here is the simple way to do it. If you only need contents of one directory you can use this code, i output it to System.Console just as an example, you can catch everything in string[] or whatever collection you prefer for your application. You only need using System.IO for this example:
 
-```csharp
+```java
 static void GetDirContents(string sDir)
 {
   try
@@ -37,7 +37,7 @@ static void GetDirContents(string sDir)
 
 If you are in need to do this recursively for all sub directories you just call the void after file writing for loop
 
-```csharp
+```java
 static void GetDirContents(string sDir)
 {
   try
