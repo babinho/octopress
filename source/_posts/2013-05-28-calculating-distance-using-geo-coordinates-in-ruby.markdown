@@ -3,7 +3,7 @@ layout: post
 title: "Calculating distance using geo coordinates in ruby"
 date: 2013-05-28 12:39
 comments: true
-categories: 
+categories: ruby
 ---
 
 As the social part of the sites is growing stronger, everyone of us has to
@@ -99,7 +99,7 @@ should be the most accurate, but take caution. I would like to benchmark them
 some day and see which one calculates the result faster.
 
 Thanks to [Movable Type Scripts][movable-type] for providing the JavaScript
-code and all the insight. I just did a rewrote in Ruby.
+code and all the insight. I just did a rewrite in Ruby.
 
 [geocoder]: https://github.com/alexreisner/geocoder
 [movable-type]: http://www.movable-type.co.uk/scripts/latlong.html
