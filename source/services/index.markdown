@@ -22,9 +22,14 @@ application.
 * Ruby/Rails
 * JavaScript
 * CoffeeScript
+* Ember.js
+* Backbone.js
+* Node.js
+* PHP
 * PL/SQL
 * Oracle
 * PostgreSQL
+* Android
 
 ###Methodologies:
 ---
