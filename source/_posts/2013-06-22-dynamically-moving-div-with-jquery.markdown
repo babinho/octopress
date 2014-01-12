@@ -54,4 +54,4 @@ div coloring skills against me.
 Resources:
 [Sticky div jsfiddle][jsfiddle]
 
-[jsfiddle]: [http://jsfiddle.net/babinho/9bRg9/2/]
+[jsfiddle]: http://jsfiddle.net/babinho/9bRg9/2/
